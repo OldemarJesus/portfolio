@@ -1,0 +1,38 @@
+.info{
+    padding: 2rem;
+    max-width: 1080px;
+}
+
+.info h1 {
+    font-family: 'Roboto Mono';
+    font-weight: 300;
+    letter-spacing: 0.1rem;
+    margin-bottom: 2rem;
+}
+
+.info p {
+    text-align: justify;
+    font-family: 'Roboto Mono';
+    line-height: 1.9rem;
+    margin-bottom: 2rem;
+}
+
+.info .contact{
+    font-family: 'Roboto Mono';
+    font-weight: 300;
+}
+
+/* Programming Language */
+.lang-prog{
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+/* Activities */
+.activities {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
